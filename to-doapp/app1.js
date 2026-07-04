@@ -1,3 +1,4 @@
+window.onload = function(){
 let todo = [];
 let req=prompt('please enter your request');
 
@@ -26,3 +27,5 @@ while(true){
     }
     req=prompt('please enter your request');
 }
+};
+
